@@ -11,7 +11,7 @@ public class ApplicationException extends RuntimeException {
 
     protected HttpStatusCode htpStatusCode;
 
-    public ApplicationException(String message, String errorCode, HttpStatusCode htpStatusCode) {
+    public ApplicationException(String errorCode, String message, HttpStatusCode htpStatusCode) {
         super(message);
         this.errorCode = errorCode;
         this.htpStatusCode = htpStatusCode;
