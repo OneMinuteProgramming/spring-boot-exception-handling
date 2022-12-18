@@ -8,6 +8,8 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7T7MMEhY8zYd6ekbDRdIhw?style=social)](http://www.youtube.com/channel/UC7T7MMEhY8zYd6ekbDRdIhw?sub_confirmation=1)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7T7MMEhY8zYd6ekbDRdIhw?style=social)](http://www.youtube.com/channel/UC7T7MMEhY8zYd6ekbDRdIhw?sub_confirmation=1)
 
+[![YouTube Video](https://img.youtube.com/vi/9_ZTiDlcHQs/0.jpg)](https://www.youtube.com/watch?v=9_ZTiDlcHQs)
+
 ## Prerequisites
 - JDK 17+
 - Maven 3.3+
